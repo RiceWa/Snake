@@ -1,1 +1,1 @@
-# Pong for COMP3023 Game and Simulation Prog
+# Snake for COMP3023 Game and Simulation Prog
